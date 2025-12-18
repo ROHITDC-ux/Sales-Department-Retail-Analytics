@@ -84,11 +84,4 @@ README.md – Project documentation
 # How This Helps My Profile
 
 This project showcases my ability to:
-
-Clean and prepare real-world datasets
-
-Work with PostgreSQL and SQL for analysis
-
-Think from a business and analytical perspective
-
-Document and present findings clearly
+Prepare and clean up real-world datasetsWork with PostgreSQL and SQL for analysis think analytically and from a business standpoint. Clearly record and convey your results.
