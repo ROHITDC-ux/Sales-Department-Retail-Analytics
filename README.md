@@ -1,5 +1,3 @@
-
-# SQL analysis of retail sales data using PostgreSQL
 # SQL Retail Sales and Profitability Analysis
 # Overview
 
